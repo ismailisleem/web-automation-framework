@@ -1,10 +1,10 @@
 # Web Automation Framework User Guide
 
-[![Python Playwright Tests](https://github.com/iisleem/web-automation-framework/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/iisleem/web-automation-framework/actions/workflows/playwright-tests.yml)
+[![Python Playwright Tests](https://github.com/ismailisleem/web-automation-framework/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/ismailisleem/web-automation-framework/actions/workflows/playwright-tests.yml)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/playwright-python-2EAD33.svg)](https://playwright.dev/python/)
 [![Pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC.svg)](https://pytest.org/)
-[![Reports](https://img.shields.io/badge/reports-Core%20Product%20%2B%20Allure-2EAD33.svg)](https://github.com/iisleem/automation-core)
+[![Reports](https://img.shields.io/badge/reports-Core%20Product%20%2B%20Allure-2EAD33.svg)](https://github.com/ismailisleem/automation-core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Python web automation framework built with Playwright, Pytest, pytest-playwright, Page Object Model, automation-core product reporting, optional official Allure reporting, retry support, parallel execution, and GitHub Actions CI.
@@ -103,7 +103,7 @@ shape for product-owned page objects, flows, tests, and environment configuratio
 framework internals.
 
 For the shared family guidance behind this layout, see
-[Automation Framework Template Strategy](https://github.com/iisleem/automation-core/blob/main/docs/template_strategy.md).
+[Automation Framework Template Strategy](https://github.com/ismailisleem/automation-core/blob/main/docs/template_strategy.md).
 
 For a first-run guide with screenshots from the sample reports, see
 [Web Framework Walkthrough](docs/WALKTHROUGH.md).
