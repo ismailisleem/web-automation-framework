@@ -1,4 +1,4 @@
-# Web Automation Framework User Guide
+# Web Automation Framework
 
 [![Python Playwright Tests](https://github.com/ismailisleem/web-automation-framework/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/ismailisleem/web-automation-framework/actions/workflows/playwright-tests.yml)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
