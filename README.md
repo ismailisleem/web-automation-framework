@@ -7,11 +7,28 @@
 [![Reports](https://img.shields.io/badge/reports-Core%20Product%20%2B%20Allure-2EAD33.svg)](https://github.com/ismailisleem/automation-core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+Playwright + Pytest framework for maintainable web UI automation: Page Objects, parallel and cross-browser runs, failure artifacts, and a built-in HTML report.
+
+![Automation report dashboard](docs/assets/walkthrough/core-report-dashboard.png)
+
+**Quick start**
+
+```bash
+pip install -r requirements.txt
+playwright install
+python framework.py run
+```
+
+The demo suite runs against SauceDemo. Full guide below.
+
 Python web automation framework built with Playwright, Pytest, pytest-playwright, Page Object Model, automation-core product reporting, optional official Allure reporting, retry support, parallel execution, and GitHub Actions CI.
 
 The included demo application is [SauceDemo](https://www.saucedemo.com/).
 
 ## What This Framework Gives You
+
+<details>
+<summary>Show the full feature list</summary>
 
 - Clean Page Object Model with locators kept out of test files
 - Pytest fixtures for browser, context, page, config, users, and checkout data
@@ -31,7 +48,12 @@ The included demo application is [SauceDemo](https://www.saucedemo.com/).
 - Smoke, regression, e2e, negative, and reporting demo markers
 - GitHub Actions workflow for CI
 
+</details>
+
 ## Project Structure
+
+<details>
+<summary>Show the project structure</summary>
 
 ```text
 web-automation-framework/
@@ -91,6 +113,8 @@ web-automation-framework/
 ├── requirements.txt               # Python dependencies
 └── .gitignore
 ```
+
+</details>
 
 ## Starter Template
 
